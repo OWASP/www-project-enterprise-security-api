@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP enterprise security api
 tags: example-tag
 level: 4
+type: code
 
 ---
 
