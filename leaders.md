@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Chris Schmidt](mailto://chris.schmidt@owasp.org)
+* [Chris Schmidt](mailto:chris.schmidt@owasp.org)
+* [Kevin Wall](mailto:)
