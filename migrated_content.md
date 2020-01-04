@@ -1,9 +1,9 @@
 ---
 
 layout: col-sidebar
-title: OWASP Enterprise Security Api
-tags: example-tag
-level: 0
+title: OWASP Enterprise Security API (ESAPI)
+tags: esapi
+level: 3
 type: code
 
 ---
@@ -228,20 +228,12 @@ If you are starting out on a new project or trying for the first time to
 secure an existing project, then _before_ you consider ESAPI, you
 should consider these possible alternatives:
 
-  - Output encoding: [OWASP Java Encoder
-    Project](https://www.owasp.org/index.php/OWASP_Java_Encoder_Project)
-  - General HTML sanitization: [OWASP Java HTML
-    Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project)
-  - Validation: [JSR-303/JSR-349 Bean
-    Validation](http://beanvalidation.org/)
-  - Strong cryptography: [Google Tink](https://github.com/google/tink),
-    [Keyczar](https://github.com/google/keyczar)
-  - Authentication / authorization: [Apache
-    Shiro](https://shiro.apache.org/)
-  - CSRF protection: [OWASP CSRFGuard
-    Project](https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project)
-    or [OWASP CSRFProtector
-    Project](https://www.owasp.org/index.php/CSRFProtector_Project)
+  - Output encoding: [OWASP Java Encoder Project](https://www.owasp.org/index.php/OWASP_Java_Encoder_Project)
+  - General HTML sanitization: [OWASP Java HTML Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project)
+  - Validation: [JSR-303/JSR-349 Bean Validation](http://beanvalidation.org/)
+  - Strong cryptography: [Google Tink](https://github.com/google/tink), [Keyczar](https://github.com/google/keyczar)
+  - Authentication / authorization: [Apache Shiro](https://shiro.apache.org/)
+  - CSRF protection: [OWASP CSRFGuard Project](https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project) or [OWASP CSRFProtector Project](https://www.owasp.org/index.php/CSRFProtector_Project)
 
 Note that this is not to suggest that ESAPI is dead, but rather to
 acknowledge the fact that it isn't being as well-maintained as most F500
@@ -257,7 +249,7 @@ ESAPI. I think that ESAPI has it's place and I will do my best to
 maintain it, but not to the exclusion of my family or day job. If you
 would like to volunteer to help, you know where to find me.
 
-\-[kevin wall](mailto:kevin.w.wall@gmail.com)
+\-[Kevin W. Wall](mailto:kevin.w.wall@gmail.com)
 
 # Glossary
 

@@ -1,55 +1,19 @@
 ---
 
 layout: col-sidebar
-title: OWASP Enterprise Security Api
-tags: example-tag
-level: 0
+title: OWASP Enterprise Security API (ESAPI)
+tags: esapi
+project: true
+level: 3
 type: code
 
-auto-migrated: 1
-
-auto-migrated: 1
+auto-migrated: 0
 
 ---
+ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications. The ESAPI libraries are designed to make it easier for programmers to retrofit security into existing applications. The ESAPI libraries also serve as a solid foundation for new development.
 
+Allowing for language-specific differences, all OWASP ESAPI versions have the same basic design:
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+* <strong>There is a set of security control interfaces.</strong> They define for example types of parameters that are passed to types of security controls.
+* <strong>There is a reference implementation for each security control.</strong> The logic is not organization‐specific and the logic is not application‐specific. An example: string‐based input validation. (Note that some of the reference implementations are simply "toy" examples to illustrate how to implement a specific interface [e.g., ESAPI for Java's <code>org.owasp.esapi.reference.FileBasedAuthenticator</code>] whereas others are full-fledged enterprise ready reference implementations [e.g., <code>org.owasp.esapi.reference.DefaultEncoder</code> or <code>org.owasp.esapi.reference.DefaultValidator</code>].)
+* <strong>There are optionally your own implementations for each security control.</strong> There may be application logic contained in these classes which may be developed by or for your organization. An example: enterprise authentication.
