@@ -30,12 +30,12 @@ If you are starting out on a new project or trying for the first time to
 secure an existing project, then _before_ you consider ESAPI, you
 should consider these possible alternatives:
 
-  - Output encoding: [OWASP Java Encoder Project](https://www.owasp.org/index.php/OWASP_Java_Encoder_Project)
-  - General HTML sanitization: [OWASP Java HTML Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project)
+  - Output encoding: [OWASP Java Encoder Project](https://www2.owasp.org/www-project-java_encoder_project)
+  - General HTML sanitization: [OWASP Java HTML Sanitizer](https://www2.owasp.org/www-project-java-html-sanitizer)
   - Validation: [JSR-303/JSR-349 Bean Validation](http://beanvalidation.org/)
   - Strong cryptography: [Google Tink](https://github.com/google/tink), [Keyczar](https://github.com/google/keyczar)
   - Authentication / authorization: [Apache Shiro](https://shiro.apache.org/)
-  - CSRF protection: [OWASP CSRFGuard Project](https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project) or [OWASP CSRFProtector Project](https://www.owasp.org/index.php/CSRFProtector_Project)
+  - CSRF protection: [OWASP CSRFGuard Project](https://www2.owasp.org/www-project-csrfguard) or [OWASP CSRFProtector Project](https://www2.owasp.org/www-project-csrfprotector)
 
 Note that this is not to suggest that ESAPI is dead, but rather to
 acknowledge the fact that it isn't being as well-maintained as most F500
