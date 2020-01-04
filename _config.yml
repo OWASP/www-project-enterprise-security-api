@@ -1,3 +1,13 @@
 remote_theme: "owasp/www--site-theme"
+
+# override default star and watch buttons
+code_user: esapi-java-legacy
+code_repo: esapi-java-legacy
+
+# core files/folders to exclude
+exclude:
+ - README.md
+ - tab_example.md
+
 plugins:
  - jekyll-include-cache-0.2.0
