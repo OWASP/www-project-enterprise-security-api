@@ -7,8 +7,6 @@ project: true
 level: 3
 type: code
 
-auto-migrated: 0
-
 ---
 ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications. The ESAPI libraries are designed to make it easier for programmers to retrofit security into existing applications. The ESAPI libraries also serve as a solid foundation for new development.
 
