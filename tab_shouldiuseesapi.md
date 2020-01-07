@@ -30,7 +30,7 @@ If you are starting out on a new project or trying for the first time to
 secure an existing project, then _before_ you consider ESAPI, you
 should consider these possible alternatives:
 
-  - Output encoding: [OWASP Java Encoder Project](/www-project-java_encoder_project)
+  - Output encoding: [OWASP Java Encoder Project](/www-project-java-encoder)
   - General HTML sanitization: [OWASP Java HTML Sanitizer](/www-project-java-html-sanitizer)
   - Validation: [JSR-303/JSR-349 Bean Validation](http://beanvalidation.org/)
   - Strong cryptography: [Google Tink](https://github.com/google/tink), [Keyczar](https://github.com/google/keyczar)
