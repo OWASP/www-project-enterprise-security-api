@@ -54,7 +54,7 @@ tags: esapi
 <li>ESAPI design patterns (not language-specific): <a href="http://www.owasp.org/images/8/82/Esapi-design-patterns.pdf">(PDF</a>, <a href="http://www.owasp.org/index.php/File:Esapi-design-patterns.doc">Word</a>, <a href="http://www.owasp.org/images/8/87/Esapi-design-patterns.ppt">PPT)</a></li>
 <li>The <a href="ESAPI_Swingset" title="wikilink">ESAPI Swingset</a> sample application demonstrates how to leverage ESAPI to protect a web application.</li>
 <li>LAMP should be spelled LAMPE (<a href="http://www.owasp.org/images/a/ac/LAMP_Should_be_Spelled_LAMPE.pdf">PDF</a>)</li>
-<li>ESAPI for Java interface documentation (<a href="http://www.javadoc.io/doc/org.owasp.esapi/esapi/2.2.0.0">JavaDocs</a>)</li>
+<li>ESAPI for Java interface documentation (<a href="http://www.javadoc.io/doc/org.owasp.esapi/esapi/2.2.1.0">JavaDocs</a>)</li>
 </ul></td>
 </tr>
 </tbody>
