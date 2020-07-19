@@ -1,10 +1,13 @@
 ### Project Classification
-* Project Level: Lab
+* <i class="fas fa-flask" style="font-size: 1.2em; color:#FFA500;"></i><span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
+
 * Project Type: Code project (Application Programming Interface)
-* OWASP Communities: Builders, Defenders
+* OWASP Communities / Audience:
+  * <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
+  * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
 
 ### Downloads and Mailing Lists
-* [Download ESAPI jar](#TODO)
+* [Download ESAPI jar -- all versions](https://mvnrepository.com/artifact/org.owasp.esapi/esapi)
 * [Download ESAPI configuration files](#TODO)
 * [Subscribe to ESAPI Users list](https://groups.google.com/a/owasp.org/forum/#!forum/esapi-project-users/join)
 * [Subscribe to ESAPI Developers list](https://groups.google.com/a/owasp.org/forum/#!forum/esapi-project-dev/join)
