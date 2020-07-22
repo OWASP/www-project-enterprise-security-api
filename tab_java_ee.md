@@ -21,4 +21,4 @@ tags: esapi
 * The current release of this project is suitable for production use.
 * The ESAPI 2.x branch supports Java 5 and above, but the latest two releases (2.2.0.0 and 2.2.1.0) require **Java 7** or later. You may view the Javadocs here http://www.javadoc.io/doc/org.owasp.esapi/esapi/
 * The unsupported ESAPI 1.4 branch supports Java 4 and above. Complete information on latest 1.4 branch dependencies can be found here http://owasp-esapi-java.googlecode.com/svn/trunk_doc/1.4.4/site/dependencies.html. (Google may have removed this though, so you may have to search for it on the [Internet Wayback Machine](https://archive.org/).)
-* The OWASP AppSensor-ESAPI integration guide is out! See [AppSensor_GettingStarted](https://www.owasp.org/index.php/AppSensor_GettingStarted) for details.
+* The OWASP AppSensor-ESAPI integration guide is out! See [AppSensor_GettingStarted](https://wiki.owasp.org/index.php/AppSensor_GettingStarted) for details.
