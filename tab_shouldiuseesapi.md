@@ -77,7 +77,7 @@ instructions of how to upload a new release to Maven Central, we couldn't make
 official releases available to the public unless they were willing to get them
 from our GitHub 'develop' branch where the fixes were being applied. Despite
 me pleading for help, none arrived until 2Q2019. Since that time, there have
-been two releases (2.2.0.0 and 2.2.1.0).
+been 3 releases (2.2.0.0, 2.2.1.0, and 2.2.1.1).
 
 #### Concerns about vulnerable ESAPI dependencies are usually over-hyped
 Despite that, I still see objections that the ESAPI development team is still
