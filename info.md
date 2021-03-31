@@ -16,7 +16,7 @@
 * [GitHub for legacy ESAPI for Java](https://github.com/ESAPI/esapi-java-legacy)
 * [GitHub for ESAPI 3.x for Java](https://github.com/ESAPI/esapi-java)
 * [GitHub for ESAPI for NodeJS](https://github.com/ESAPI/node-esapi)
-* [GitHub for ESAPI for JavaScript](https://github.com/ESAPI/owasp-esapi-js)
+* **DEPRECATED** - [GitHub for ESAPI for JavaScript](https://github.com/ESAPI/owasp-esapi-js)
 
 ### Javadoc
 * [ESAPI Javadoc](https://www.javadoc.io/doc/org.owasp.esapi/esapi)

@@ -22,7 +22,7 @@ endorsement of that vendor by either the OWASP Foundation, nor by ESAPI contribu
 ### Get ESAPI
 * [ESAPI for Java Downloads (binaries)](https://search.maven.org/#search%7Cga%7C1%7Cesapi)
 * [ESAPI for Java (source)](https://github.com/ESAPI/esapi-java-legacy)
-* [ESAPI for JavaScript](https://github.com/ESAPI/owasp-esapi-js)
+* **DEPRECATED** - [ESAPI for JavaScript](https://github.com/ESAPI/owasp-esapi-js)
 * [ESAPI for NodeJS](https://github.com/ESAPI/node-esapi) - a minimal port of "ESAPI for JavaScript" for use with Node.js
 
 #### Unsupported versions
