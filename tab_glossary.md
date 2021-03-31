@@ -10,8 +10,7 @@ tags: esapi
 ## Glossary
 
 
-![Image:Asvs-letters.jpg](Asvs-letters.jpg
-"Image:Asvs-letters.jpg")**ESAPI Terminology**
+**ESAPI Terminology**
 
   - **adapter** - There are optionally your own implementations for each
     security control. There may be application logic contained in these
@@ -27,6 +26,9 @@ tags: esapi
   - **core** - The ESAPI interfaces and reference implementations that
     are not intended to be replaced with enterprise-specific versions
     are called the ESAPI Core.
+  - **encoder** - Interfaces and implementation classes that perform some sort
+    of output encoding, whether as a defense against XSS or to do base64
+    encoding, etc.
   - **exception** - ESAPI exception reference implementations.
   - **extended factory design pattern** - The "extended" factory design
     pattern refers to the addition of a new security control interface
@@ -63,12 +65,18 @@ tags: esapi
     order to perform security checks (such as performing an access
     control check) or that result in security effects (such as
     generating an audit record).
+  - **safe logging** -- ESAPI's attempt to sanitize log output as a defense
+    against Log Forging attacks.
   - **reference implementation** - There is a reference implementation
     for each security control. There is application logic contained in
     these classes, i.e. contained in these interface implementations.
     However, the logic is not organization-specific and the logic is not
     application-specific. There is no proprietary information or logic
     contained in these reference implementation classes.
+  - **validator** - An interface or implementation class that does some sort
+    of data validation, usually via an accept-list or regular expression.
+    ESAPI validators also often handle canonicalization of input before the
+    actual data validation is performed.
   - **Web Application Firewall (WAF)** - In ESAPI for Java, there is
     additionally a Web Application Firewall (WAF) that can be called
     separately from the other controls.
