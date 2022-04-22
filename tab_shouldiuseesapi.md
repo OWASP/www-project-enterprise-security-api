@@ -76,8 +76,9 @@ fixing bugs (including updating dependencies), but because no one had
 instructions of how to upload a new release to Maven Central, we couldn't make
 official releases available to the public unless they were willing to get them
 from our GitHub 'develop' branch where the fixes were being applied. Despite
-me pleading for help, none arrived until 2Q2019. Since that time, there have
-been 3 releases (2.2.0.0, 2.2.1.0, and 2.2.1.1).
+me pleading for help, none arrived until 2Q-2019. Since that time, there have
+been 7 *official* releases (see https://mvnrepository.com/artifact/org.owasp.esapi/esapi
+for a complete list).
 
 #### Concerns about vulnerable ESAPI dependencies are usually over-hyped
 Despite that, I still see objections that the ESAPI development team is still
