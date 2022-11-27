@@ -8,7 +8,7 @@
 
 ### Downloads and Mailing Lists
 * [Download ESAPI jar -- all versions](https://mvnrepository.com/artifact/org.owasp.esapi/esapi)
-* [Download ESAPI configuration files](https://github.com/ESAPI/esapi-java-legacy/releases/tag/esapi-2.5.0.0)
+* [Download ESAPI configuration files](https://github.com/ESAPI/esapi-java-legacy/releases/latest)
 * [Subscribe to ESAPI Users list](https://groups.google.com/a/owasp.org/forum/#!forum/esapi-project-users/join)
 * [Subscribe to ESAPI Developers list](https://groups.google.com/a/owasp.org/forum/#!forum/esapi-project-dev/join)
 
