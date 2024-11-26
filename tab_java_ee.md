@@ -11,8 +11,8 @@ tags: esapi
 
 ### Release Info
 
-* Current release: 2.5.5.0 - Oct 7, 2024 [(download)](https://mvnrepository.com/artifact/org.owasp.esapi/esapi/2.5.5.0)
-* Release notes: [2.5.5.0 release notes](https://github.com/ESAPI/esapi-java-legacy/blob/develop/documentation/esapi4java-core-2.5.5.0-release-notes.txt)
+* Current release: 2.6.0.0 - November 25, 2024 [(download)](https://mvnrepository.com/artifact/org.owasp.esapi/esapi/2.6.0.0)
+* Release notes: [2.6.0.0 release notes](https://github.com/ESAPI/esapi-java-legacy/blob/develop/documentation/esapi4java-core-2.6.0.0-release-notes.txt)
 
 
 ### Summary
