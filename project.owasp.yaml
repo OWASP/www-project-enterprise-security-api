@@ -1,0 +1,39 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Kevin Wall
+    email: kevin.w.wall@owasp.org
+    github: kwwall
+  - name: Matt Seil
+    email: matt.seil@owasp.org
+    github: xeno6696
+level: 3
+license:
+  - BSD-3-Clause
+  - CC0-1.0
+  - MIT
+name: OWASP Enterprise Security API (ESAPI)
+pitch: Description for OWASP Enterprise Security API (ESAPI)
+repositories:
+  - name: www-project-enterprise-security-api
+    url: https://github.com/OWASP/www-project-enterprise-security-api
+    description: OWASP Foundation Web Repository
+  - name: esapi-java
+    url: https://github.com/ESAPI/esapi-java
+  - name: esapi-java-legacy
+    url: https://github.com/ESAPI/esapi-java-legacy
+    description: ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers
+      to write lower-risk applications.
+  - name: node-esapi
+    url: https://github.com/ESAPI/node-esapi
+    description: A minimal port of the old, publicly archived "owasp-esapi-js" (Enterprise Security API for JavaScript) encoder.
+  - name: test-github-discussions
+    url: https://github.com/ESAPI/test-github-discussions
+    description: Playground for experimenting with GitHub Discussions - this WILL be removed soon!
+tags:
+  - esapi
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-enterprise-security-api
